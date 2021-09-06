@@ -35,5 +35,10 @@ namespace ConsoleApp1
         {
             weekDays.Add("Thursday");
         }
+
+        static void GetWeekDays5(ref List<string> weekDays)
+        {
+            weekDays.Add("Friday");
+        }
     }
 }
